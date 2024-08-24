@@ -1,0 +1,41 @@
+﻿  word-selector.cpp
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(11,12): error C3646: 'sentence': unknown override specifier
+  (compiling source file 'word-selector.cpp')
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(11,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'word-selector.cpp')
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(16,44): error C2061: syntax error: identifier 'string'
+  (compiling source file 'word-selector.cpp')
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(17,22): error C2061: syntax error: identifier 'string'
+  (compiling source file 'word-selector.cpp')
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\word-selector.cpp(13,73): error C2039: 'sentence': is not a member of 'word_selector'
+  C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(2,7):
+  see declaration of 'word_selector'
+  
+  wrdSelector.cpp
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(11,12): error C3646: 'sentence': unknown override specifier
+  (compiling source file 'wrdSelector.cpp')
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(11,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'wrdSelector.cpp')
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(16,44): error C2061: syntax error: identifier 'string'
+  (compiling source file 'wrdSelector.cpp')
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(17,22): error C2061: syntax error: identifier 'string'
+  (compiling source file 'wrdSelector.cpp')
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.cpp(7,21): error C2511: 'void word_selector::wordbreak(int *,int *,int *,int *,std::string)': overloaded member function not found in 'word_selector'
+  C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(2,7):
+  see declaration of 'word_selector'
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.cpp(9,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.cpp(40,21): error C2511: 'void word_selector::input(int *,std::string)': overloaded member function not found in 'word_selector'
+  C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.h(2,7):
+  see declaration of 'word_selector'
+  
+C:\Users\Brick\source\repos\Chisomo-Chewele\word-selector\word-selector\wrdSelector.cpp(43,18): error C2065: 'sentence': undeclared identifier
+  Generating Code...
